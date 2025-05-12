@@ -273,6 +273,3 @@ T → id
   - `/ Esto no es un comentario`
   - `** Esto tampoco es un comentario */`
 
-## Implementación en Analizador Léxico
-
-Para implementar estas expresiones regulares en un analizador léxico, puedes utilizar herramientas como Flex (para C/C++) o crear tus propios autómatas finitos determinísticos (AFD) a partir de las expresiones regulares.
