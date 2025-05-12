@@ -5,8 +5,8 @@
 
 Para **cada uno de los ejercicios** que se presentan a continuación, realiza lo siguiente:
 
-1. El **análisis sintáctico descendente** (por ejemplo, mediante derivación o tabla LL).
-2. El **análisis sintáctico ascendente** (por ejemplo, mediante análisis LR o tabla SLR/LR(1)).
+1. El **análisis sintáctico descendente**.
+2. El **análisis sintáctico ascendente** .
 3. Construye las **tablas de análisis sintáctico** correspondientes (descendente y ascendente).
 4. Dibuja el **árbol de derivación** o **grafo de análisis sintáctico** para cada expresión.
 5. Pasar las reglas a .g4 y verificar que funcione
